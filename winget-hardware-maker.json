@@ -1,0 +1,49 @@
+{
+  "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+  "Sources": [
+    {
+      "Packages": [
+        
+        {
+          "PackageIdentifier": "Audient.EVO"
+        },
+        {
+          "PackageIdentifier": "Elgato.StreamDeck"
+        },
+        {
+          "PackageIdentifier": "Elgato.ControlCenter"
+        },
+        {
+          "PackageIdentifier": "Elgato.CameraHub"
+        },
+        {
+          "PackageIdentifier": "Elgato.WaveLink"
+        },
+        {
+          "PackageIdentifier": "Apple.Bonjour"
+        },
+        {
+          "PackageIdentifier": "Creality.CrealityPrint"
+        },
+        {
+          "PackageIdentifier": "SoftFever.OrcaSlicer"
+        },
+        {
+          "PackageIdentifier": "LightBurnSoftware.LightBurn"
+        },
+        {
+          "PackageIdentifier": "Autodesk.Fusion"
+        },
+        {
+          "PackageIdentifier": "Autodesk.AutodeskAccess"
+        }
+      ],
+      "SourceDetails": {
+        "Argument": "https://cdn.winget.microsoft.com/cache",
+        "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+        "Name": "winget",
+        "Type": "Microsoft.PreIndexed.Package"
+      }
+    }
+  ]
+}
