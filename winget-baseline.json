@@ -29,8 +29,7 @@
         },
         {
           "PackageIdentifier": "Discord.Discord"
-        },
-        
+        }        
       ],
       "SourceDetails": {
         "Argument": "https://cdn.winget.microsoft.com/cache",
