@@ -30,12 +30,6 @@
         },
         {
           "PackageIdentifier": "LightBurnSoftware.LightBurn"
-        },
-        {
-          "PackageIdentifier": "Autodesk.Fusion"
-        },
-        {
-          "PackageIdentifier": "Autodesk.AutodeskAccess"
         }
       ],
       "SourceDetails": {
