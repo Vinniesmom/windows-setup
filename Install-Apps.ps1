@@ -2,7 +2,7 @@
 # Run in an elevated PowerShell prompt:
 #   powershell -ExecutionPolicy Bypass -File .\Install-Apps.ps1 -Lists 'winget-baseline.json','winget-gaming.json'
 param(
-    [string[]]$Lists = @('winget-baseline.json'),
+    [string[]]$Lists = @('winget-baseline.json', 'winget-creative.json', 'winget-dev.json', 'winget-extras.json', 'winget-gaming.json','winget-hardware-maker.json'),
     [string]$Base    = 'https://raw.githubusercontent.com/Vinniesmom/windows-setup/main'
 )
  
